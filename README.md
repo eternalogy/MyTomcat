@@ -1,2 +1,2 @@
-# MyTomcat
-手写Tomcat
+# my-tomcat
+DIY a simple tomcat
